@@ -13,3 +13,11 @@ C:\Users\Archana\csharpExperiments\Exp02-CSharpPattern\obj\Debug\net6.0\refint\E
 C:\Users\Archana\csharpExperiments\Exp02-CSharpPattern\obj\Debug\net6.0\Exp02-CSharpPattern.pdb
 C:\Users\Archana\csharpExperiments\Exp02-CSharpPattern\obj\Debug\net6.0\Exp02-CSharpPattern.genruntimeconfig.cache
 C:\Users\Archana\csharpExperiments\Exp02-CSharpPattern\obj\Debug\net6.0\ref\Exp02-CSharpPattern.dll
+C:\Users\SEC\hari2\Exp02-CSharpPattern\obj\Debug\net6.0\Exp02-CSharpPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEC\hari2\Exp02-CSharpPattern\obj\Debug\net6.0\Exp02-CSharpPattern.AssemblyInfoInputs.cache
+C:\Users\SEC\hari2\Exp02-CSharpPattern\obj\Debug\net6.0\Exp02-CSharpPattern.AssemblyInfo.cs
+C:\Users\SEC\hari2\Exp02-CSharpPattern\obj\Debug\net6.0\Exp02-CSharpPattern.csproj.CoreCompileInputs.cache
+C:\Users\SEC\hari2\Exp02-CSharpPattern\obj\Debug\net6.0\Exp02-CSharpPattern.sourcelink.json
+C:\Users\SEC\hari2\Exp02-CSharpPattern\obj\Debug\net6.0\Exp02-CSharpPattern.dll
+C:\Users\SEC\hari2\Exp02-CSharpPattern\obj\Debug\net6.0\refint\Exp02-CSharpPattern.dll
+C:\Users\SEC\hari2\Exp02-CSharpPattern\obj\Debug\net6.0\Exp02-CSharpPattern.pdb
