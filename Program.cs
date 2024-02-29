@@ -13,7 +13,7 @@ public class Pattern
                 for (int j=0;j<=i;j++)
                 {
                     if (int==0 || j==0)
-                        c=1;
+                        c=1; 
                     else
                         c=c*(i-j+1)/j;
                         Console.WriteLine(c+" ");
