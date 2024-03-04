@@ -21,3 +21,10 @@ C:\Users\SEC\hari2\Exp02-CSharpPattern\obj\Debug\net6.0\Exp02-CSharpPattern.sour
 C:\Users\SEC\hari2\Exp02-CSharpPattern\obj\Debug\net6.0\Exp02-CSharpPattern.dll
 C:\Users\SEC\hari2\Exp02-CSharpPattern\obj\Debug\net6.0\refint\Exp02-CSharpPattern.dll
 C:\Users\SEC\hari2\Exp02-CSharpPattern\obj\Debug\net6.0\Exp02-CSharpPattern.pdb
+C:\Users\SEC\hari2\Exp02-CSharpPattern\bin\Debug\net6.0\Exp02-CSharpPattern.exe
+C:\Users\SEC\hari2\Exp02-CSharpPattern\bin\Debug\net6.0\Exp02-CSharpPattern.deps.json
+C:\Users\SEC\hari2\Exp02-CSharpPattern\bin\Debug\net6.0\Exp02-CSharpPattern.runtimeconfig.json
+C:\Users\SEC\hari2\Exp02-CSharpPattern\bin\Debug\net6.0\Exp02-CSharpPattern.dll
+C:\Users\SEC\hari2\Exp02-CSharpPattern\bin\Debug\net6.0\Exp02-CSharpPattern.pdb
+C:\Users\SEC\hari2\Exp02-CSharpPattern\obj\Debug\net6.0\Exp02-CSharpPattern.genruntimeconfig.cache
+C:\Users\SEC\hari2\Exp02-CSharpPattern\obj\Debug\net6.0\ref\Exp02-CSharpPattern.dll
